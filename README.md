@@ -1,5 +1,5 @@
 # Data Scientist Nanodegree
-# Supervised Learning
+# Deep Learning
 ## Project: Create Your Own Image Classifier - TensorFlow
 
 ### Part 1 - Developing an Image Classifier with Deep Learning
